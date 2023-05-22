@@ -1,0 +1,29 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.a
+{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(232, 163, 72);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#a1
+{
+    color: aqua;
+    font-style: oblique;
+}
